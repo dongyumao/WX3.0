@@ -1,29 +1,36 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1232E06F49237C512E8194E5547D291DCC4062E0",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "05027AE8B7A1DEBEFCBF8B00AF48CDF403E17F87",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
     "6ec3b86d-b301-894a-b5cd-261cfab5c012++9314" : {
 
     }
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "05027AE8B7A1DEBEFCBF8B00AF48CDF403E17F87" : 0,
     "1BF173E4162522006F48E9B58BCA749805F8BE67" : 0,
+    "8256D7E5705457084742BC944791A60E3FDCDC98" : 0,
     "F72339642854CC075E0748BC992572E080761CC3" : 0,
     "1232E06F49237C512E8194E5547D291DCC4062E0" : 0,
-    "8256D7E5705457084742BC944791A60E3FDCDC98" : 0,
     "6ec3b86d-b301-894a-b5cd-261cfab5c012++9314" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "522491A9-3B5B-4225-B067-520A8D805B70",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "05027AE8B7A1DEBEFCBF8B00AF48CDF403E17F87" : "WX3.0\/",
     "1BF173E4162522006F48E9B58BCA749805F8BE67" : "gjtjb2",
+    "8256D7E5705457084742BC944791A60E3FDCDC98" : "gjtjb",
     "F72339642854CC075E0748BC992572E080761CC3" : "gjtjb\/RKWXT\/PayInterface\/wechat\/lib\/wepay_demo",
     "1232E06F49237C512E8194E5547D291DCC4062E0" : "wx3\/",
-    "8256D7E5705457084742BC944791A60E3FDCDC98" : "gjtjb",
     "6ec3b86d-b301-894a-b5cd-261cfab5c012++9314" : "wx_v3\/RKWXT\/ShareInterface\/weixin\/SDK\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "RKWXT",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
   "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "RKWXT.xcworkspace",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dongyumao\/WX3.0.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "05027AE8B7A1DEBEFCBF8B00AF48CDF403E17F87"
+    },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/liandongtianxia\/WX3.0.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
